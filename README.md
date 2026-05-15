@@ -6,8 +6,8 @@
 
 | skill | 作用 |
 | --- | --- |
-| [hyptest-workflow](hyptest-workflow/) | 正向闭环：把测试意图落成可追踪的 hyptest case，含编译、运行、分层、反标 |
-| [hyptest-failure-triage](hyptest-failure-triage/) | 反向闭环：把 selfcheck_fail / stuck / difftest mismatch 推进到分类结论和报告 |
+| [hyptest-workflow](hyptest-workflow/) | 把测试意图落成可追踪的 hyptest case，含编译、运行、分层、反标 |
+| [hyptest-failure-triage](hyptest-failure-triage/) | 把 selfcheck_fail / stuck / difftest mismatch 推进到分类结论和报告 |
 
 每个 skill 的详细用法看各自目录下的 `README.md`（用户视角）和 `SKILL.md`（agent 执行规则）。
 
