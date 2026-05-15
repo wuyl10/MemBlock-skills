@@ -1,0 +1,6 @@
+[submodule "hyptest-workflow"]
+	path = hyptest-workflow
+	url = https://github.com/wuyl10/hyptest-workflow.git
+[submodule "hyptest-failure-triage"]
+	path = hyptest-failure-triage
+	url = https://github.com/wuyl10/hyptest-failure-triage.git
